@@ -15,7 +15,7 @@ Gesture recognition allows for intuitive interaction with devices and systems. T
 
 ## Installation 💻
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `[git clone <repository-url>](https://github.com/ArkTrek/Gesture-Recognition-System.git)`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage 📋
