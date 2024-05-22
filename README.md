@@ -21,7 +21,7 @@ Gesture recognition allows for intuitive interaction with devices and systems. T
 ## Usage 📋
 
 1. Prepare video streams or images containing hand gestures.
-2. Run the recognition script: `python `
+2. Run the recognition script: `python app.py`
 3. View recognized gestures and corresponding actions.
 
 ## Contributing 🤝
